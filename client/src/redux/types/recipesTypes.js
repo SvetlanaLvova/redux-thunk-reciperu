@@ -1,0 +1,2 @@
+export const GET_RECIPES = 'GET_RECIPES'
+export const ADD_TO_FAVORITE = 'ADD_TO_FAVORITE'
