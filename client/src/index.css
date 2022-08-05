@@ -24,3 +24,6 @@ nav {
   grid-template-columns: repeat(auto-fill, minmax(600px, 1fr));
   gap: 1rem;
 }
+.mainpage {
+  margin-left: 320px;
+}
